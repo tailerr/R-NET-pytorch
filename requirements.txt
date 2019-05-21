@@ -1,0 +1,4 @@
+torch>=0.4.1
+glove>=1.0.1
+tensorboardX>=1.2
+nltk>=3.4
